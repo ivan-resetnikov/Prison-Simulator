@@ -1,0 +1,14 @@
+{
+	"player": {
+		"pos": [0, 0],
+		"inventory": [],
+
+		"stats": {
+			"health": 100,
+			"stamina": 100,
+			"money": 0,
+		},
+
+		"time": [0, 0]
+	}
+}
